@@ -42,3 +42,8 @@ Network Trash Folder
 Temporary Items
 .apdisk
 .idea/workspace.xml
+<<<<<<< HEAD
+=======
+.idea/uiDesigner.xml
+>>>>>>> ef95cab7471eb8dfee10322f8b7f1a798127d76e
+.idea/workspace.xml
